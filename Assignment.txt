@@ -1,0 +1,49 @@
+
+JS -> 19/6/2019-
+
+ 		https://jsfiddle.net/szhd358o/
+
+                 		https://jsfiddle.net/crz12w3u/
+
+
+JS -> 20/6/2019
+
+		https://jsfiddle.net/431ygc06/
+
+                                   https://jsfiddle.net/g2b3h07a/
+
+
+
+HTML -> 20/6/2019
+
+		https://jsfiddle.net/m3xeLbaj/
+
+
+
+JS -> 26/6/2019
+
+		https://jsfiddle.net/otz0svwx/
+
+
+		https://jsfiddle.net/guwy9zm8/
+
+
+JS DOM ->27/6/2019
+
+		https://jsfiddle.net/juq6nrya/
+
+
+		https://jsfiddle.net/3b7jzsqt/
+
+
+		https://jsfiddle.net/skx5mbqd/
+
+
+		https://jsfiddle.net/a6rjnfzu/
+
+
+		https://jsfiddle.net/gmy5k8pd/
+
+Calculator ->
+
+		https://jsfiddle.net/yoehgbws/1/
