@@ -1,0 +1,40 @@
+ <html>
+ <head><link rel="stylesheet" type="text/css" media="all" href="pc.css">
+
+  
+</head>
+     <body>
+
+	  
+	<input type="text" id="color_id" >  
+	<input type="button" value="Submit" onclick="setColor()"> 
+	<br><br><br>
+	<div class="div1" id="d1" style="border : 1px solid blue; width:400px; height:300px;" ></div>
+                      
+	<div class="div2" id="d2" style="border : 1px solid blue; width:400px; height:300px;"></div>
+	
+     <script>
+         function setColor(){
+	let inputColor=document.getElementById("color_id").value;
+	d1.style.background = inputColor;
+                  
+	console.log(d1.style.background);
+                }
+	
+
+	function fixColor(){
+	
+	let inputColor = document.getElementById("color_id").value;
+	d2.style.background = inputColor;
+	d1.style.background=null
+	console.log(d2.style.background);
+	
+                  }
+
+
+	document.getElementById("d1").addEventListener("click",fixColor);
+    </script>
+	  
+  
+      </body>
+</html>
